@@ -6,7 +6,7 @@
   * [PatentGPT-J-279M](https://huggingface.co/patent/patentgpt-j-279M/tree/main)
   * [PatentGPT-J-456M](https://huggingface.co/patent/patentgpt-j-456M/tree/main)
   * [PatentGPT-J-1.6B](https://huggingface.co/patent/patentgpt-j-1.6B/tree/main)
-  * sample code for using the these models for inference (see the following Sentiment Analysis experiment)
+  * sample code of using these models for inference (see the following Sentiment Analysis experiment)
 
 * Experiments
   * Autocomplete Effectiveness (AE) ratio 
