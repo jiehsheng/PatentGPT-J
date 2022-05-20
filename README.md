@@ -3,9 +3,9 @@
 * PatentGPT-J models are pre-trained with patent corpus and based on the [GPT-J-6B & Mesh Transformer JAX](https://github.com/kingoflolz/mesh-transformer-jax). 
 
 * Model files
-  * [PatentGPT-J-279M](https://huggingface.co/patent/patentgpt-j-279M)
-  * [PatentGPT-J-456M](https://huggingface.co/patent/patentgpt-j-456M)
-  * [PatentGPT-J-1.6B](https://huggingface.co/patent/patentgpt-j-1.6B)
+  * [PatentGPT-J-279M](https://huggingface.co/patent/patentgpt-j-279M/tree/main)
+  * [PatentGPT-J-456M](https://huggingface.co/patent/patentgpt-j-456M/tree/main)
+  * [PatentGPT-J-1.6B](https://huggingface.co/patent/patentgpt-j-1.6B/tree/main)
   * sample code for using the these models for inference (see the following Sentiment Analysis experiment)
 
 * Experiments
